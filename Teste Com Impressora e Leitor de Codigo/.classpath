@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/lucio/Downloads/commons-email-1.4/commons-email-1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/lucio/Downloads/commons-email-1.4/commons-email-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/lucio/Downloads/javamail-1.4.7/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="/home/lucio/Downloads/javamail-1.4.7/mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
